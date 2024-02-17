@@ -22,8 +22,10 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
 5. On early computers, every byte of data read or written was handled by the CPU (i.e., there was no DMA). What implications does this have for multiprogramming?
     
     This would essentially make multiprogramming useless since without DMA there is no way for a CPU to run more than one thing at a time since it will always be used at %100 for one thing.
-6. There are several design goals in building an operating system, for example, resource utilization, timeliness, robustness, and so on. Give an example of two design goals that may contradict one another.
 
+6. There are several design goals in building an operating system, for example, resource utilization, timeliness, robustness, and so on. Give an example of two design goals that may contradict one another.
+    
+    
 7. Which of the following instructions should be allowed only in kernel mode?
     (a) Disable all interrupts.
     (b) Read the time-of-day clock.
