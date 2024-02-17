@@ -40,5 +40,6 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
     A trap instructions is the switch between a user and kernel. When a switch is activated then the user can use commands that tells the kernel to do things.
 10. Modern operating systems decouple a process address space from the machine’s physical memory. List two advantages of this design.
 
+    One advantage will be that a program does not have to be inside the size of machines memory. Since different parts can be loaded in different runs which is another benifit.
 ### Deliverables
 Commit the answers to the questions in a readable file to your git repository by the due date and time indicated with your repository. Approved file submission formats are: .txt, .md, .pdf. .html (renderable) or anything that is web-readable on Github. Other formats will only be accepted with explicit approval.
