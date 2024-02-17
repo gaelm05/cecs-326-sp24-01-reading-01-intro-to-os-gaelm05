@@ -27,8 +27,10 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
 7. Which of the following instructions should be allowed only in kernel mode?
     (a) Disable all interrupts.
     (b) Read the time-of-day clock.
-    (c) Set the time-of-day clock. (d) Change the memory map.
-
+    (c) Set the time-of-day clock. 
+    (d) Change the memory map.
+    
+    Here the choices that will only be allowed in Kernel mode are the ones where major alterations are made to the system, a, c, and d.
 8. Consider a system that has two CPUs, each CPU having two threads (hyperthreading). Suppose three programs, P0, P1, and P2, are started with run times of 5, 10 and 20 msec, respectively. How long will it take to complete the execution of these programs? Assume that all three programs are 100% CPU bound, do not block during execution, and do not change CPUs once assigned.
 
 9. What is a trap instruction? Explain its use in operating systems.
