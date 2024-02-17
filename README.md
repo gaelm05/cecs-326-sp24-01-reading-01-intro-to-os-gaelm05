@@ -16,9 +16,12 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
     This idea still lives on. Though at home and for personal use we might not need this there are still companies that use these ideas to be able to hold massive databases. Still using batch computing. 
 
 4. What is the difference between kernel and user mode? Explain how having two distinct modes aids in designing an operating system.
+    
+    Most of the time we are in user mode. Allowed to only be able to run things that are not critical. Kernel mode has full access to the CPU. When looking at it in a tree User mode is a small child of Kernel mode. This is useful to have in an operating system to stop the user from messing up critical data.
 
 5. On early computers, every byte of data read or written was handled by the CPU (i.e., there was no DMA). What implications does this have for multiprogramming?
-
+    
+    
 6. There are several design goals in building an operating system, for example, resource utilization, timeliness, robustness, and so on. Give an example of two design goals that may contradict one another.
 
 7. Which of the following instructions should be allowed only in kernel mode?
