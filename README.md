@@ -5,7 +5,7 @@
 Answer the following questions from the Chapter 1 reading from your text- book. Be through and complete with your answers. You may work on these questions with one or two other partners, but *all* students must submit the document individually in their own repositories along with each student's name documented with the submission.
 
 1. What are the two main functions of an operating system?
-
+    The two main functions is offering a clean interface to work on and managing hardware reasources.
 2. What is the difference between timesharing and multiprogramming systems?
 
 3. The family-of-computers idea was introduced in the 1960s with the IBM System/360 mainframes. Is this idea now dead as a doornail or does it live on?
