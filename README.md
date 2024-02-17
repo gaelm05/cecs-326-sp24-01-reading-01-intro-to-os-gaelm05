@@ -25,7 +25,7 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
 
 6. There are several design goals in building an operating system, for example, resource utilization, timeliness, robustness, and so on. Give an example of two design goals that may contradict one another.
     
-    
+    Two design goals that can contridict eachother is timelisness and protections. For example the smart card operating system having the OS being old we can find issues in protection though these woudld be considered timeless.
 7. Which of the following instructions should be allowed only in kernel mode?
     (a) Disable all interrupts.
     (b) Read the time-of-day clock.
