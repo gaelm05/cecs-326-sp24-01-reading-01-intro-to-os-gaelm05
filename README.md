@@ -13,6 +13,8 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
     In a timesharing system there can be multiple people can use a computing system on their own device. Multiprogramming means a system that can run mutlipleprograms at the same time. Timesharing falls under multiprogramming.
 3. The family-of-computers idea was introduced in the 1960s with the IBM System/360 mainframes. Is this idea now dead as a doornail or does it live on?
 
+    This idea still lives on. Though at home and for personal use we might not need this there are still companies that use these ideas to be able to hold massive databases. Still using batch computing. 
+
 4. What is the difference between kernel and user mode? Explain how having two distinct modes aids in designing an operating system.
 
 5. On early computers, every byte of data read or written was handled by the CPU (i.e., there was no DMA). What implications does this have for multiprogramming?
