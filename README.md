@@ -37,7 +37,7 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
 
     This will depend on the order that the programs are being pushed through. On the low end it can take 20 msec if P0,P1 are on one CPU and P2 is ona different one. If all three are only pushed into one CPU then the process will take 35 msec. 
 9. What is a trap instruction? Explain its use in operating systems.
-
+    A trap instructions is the switch between a user and kernel. When a switch is activated then the user can use commands that tells the kernel to do things.
 10. Modern operating systems decouple a process address space from the machine’s physical memory. List two advantages of this design.
 
 ### Deliverables
