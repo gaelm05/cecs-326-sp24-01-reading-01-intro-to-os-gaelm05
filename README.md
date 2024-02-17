@@ -35,6 +35,7 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
     Here the choices that will only be allowed in Kernel mode are the ones where major alterations are made to the system, a, c, and d.
 8. Consider a system that has two CPUs, each CPU having two threads (hyperthreading). Suppose three programs, P0, P1, and P2, are started with run times of 5, 10 and 20 msec, respectively. How long will it take to complete the execution of these programs? Assume that all three programs are 100% CPU bound, do not block during execution, and do not change CPUs once assigned.
 
+    This will depend on the order that the programs are being pushed through. On the low end it can take 20 msec if P0,P1 are on one CPU and P2 is ona different one. If all three are only pushed into one CPU then the process will take 35 msec. 
 9. What is a trap instruction? Explain its use in operating systems.
 
 10. Modern operating systems decouple a process address space from the machine’s physical memory. List two advantages of this design.
