@@ -7,7 +7,7 @@ Answer the following questions from the Chapter 1 reading from your text- book. 
 1. What are the two main functions of an operating system?
     The two main functions is offering a clean interface to work on and managing hardware reasources.
 2. What is the difference between timesharing and multiprogramming systems?
-
+    testing commit 
 3. The family-of-computers idea was introduced in the 1960s with the IBM System/360 mainframes. Is this idea now dead as a doornail or does it live on?
 
 4. What is the difference between kernel and user mode? Explain how having two distinct modes aids in designing an operating system.
